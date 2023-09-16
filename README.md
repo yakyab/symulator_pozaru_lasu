@@ -1,0 +1,1 @@
+# symulator_pozaru_lasu
